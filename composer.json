@@ -1,0 +1,13 @@
+{
+    "name": "rasmusrosengren/string-diff",
+    "description": "A class to extract variables in identically formatted string with only small differences",
+    "license": "MIT",
+    "require": {
+        "php": ">=5.6.*",
+    },
+    "autoload": {
+        "psr-4": {
+            "StringDiff\\": "src/"
+        }
+    }
+}
